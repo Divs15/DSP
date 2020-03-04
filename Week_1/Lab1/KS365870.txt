@@ -1,0 +1,54 @@
+LOCUS       KS365870                 257 bp    DNA     linear   GSS 31-MAR-2016
+DEFINITION  RIS33467 Control and insulated FV vector RIS library Homo sapiens
+            genomic clone CD34_Liquid_FVSGW650cHS4_Day10_5821 similar to
+            CD34_Liquid_FVSGW650cHS4_Day10_5821, genomic survey sequence.
+ACCESSION   KS365870
+VERSION     KS365870.1
+DBLINK      BioSample: SAMN04599271
+KEYWORDS    GSS.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 257)
+  AUTHORS   Browning,D.L., Collins,C.P., Hocum,J.D., Leap,D.J., Rae,D.T. and
+            Trobridge,G.D.
+  TITLE     Insulated Foamy Viral Vectors
+  JOURNAL   Hum. Gene Ther. 27 (3), 255-266 (2016)
+   PUBMED   26715244
+COMMENT     Contact: Trobridge, G.D.
+            Department of Pharmaceutical Sciences
+            Washington State University
+            P.O. Box 1495, Spokane, WA, 99210-1495, USA
+            Tel: 509 368 6564
+            Fax: 509 368 6560
+            Email: grant.trobridge@wsu.edu
+            Foamy viral vector:chromosome junction sequences obtained by
+            MGS-PCR, followed sequencing on an illumina MiSeq
+            Class: viral tagged.
+FEATURES             Location/Qualifiers
+     source          1..257
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /clone="CD34_Liquid_FVSGW650cHS4_Day10_5821"
+                     /sex="male"
+                     /cell_type="CD34"
+                     /tissue_type="cord blood"
+                     /clone_lib="SAMN04599271 Control and insulated FV vector
+                     RIS library"
+                     /note="male human CD34+ cord blood cells were exposed to
+                     650cHS4 insulated or uninsulated FV vectors and cultured
+                     at 37 degrees in IMDM with 10% FBS and 100 ng/mL each of
+                     rhIL-3, rhIL-6, rhSCF, rhTPO, rhFLT-3, and rhG-CSF. DNA
+                     was extracted at 5 and 10 days post vector exposure and
+                     RIS captured by MGS-PCR."
+ORIGIN      
+        1 cagggtttca ccatattggc cagagtggtc tcgaactcct gacctcgtga tccacccgcc
+       61 tcggcctccc caagtgctgg gattacaggt gtgagccacc gtgcccggcc ttttttttgt
+      121 tttttgagat ggagtctcat tctgtggccc aggctggagt gcagcagcgc cgtcacggct
+      181 caccgcaacc ttcacctcct gggttcaagc aattctccta cttcagcctc ccaagtagct
+      241 gggattacaa gtgcgtg
+//
+
